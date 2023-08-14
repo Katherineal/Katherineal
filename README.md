@@ -10,16 +10,22 @@
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 <br>
 <h3>Version Control</h3>
-<img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> <img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+ <div display: flex>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+ </div>
 <br>
 <h3>Lenguajes</h3>
-<img  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">  <img  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> <img  src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">  <img  src="https://www.vectorlogo.zone/logos/python/python-vertical.svg">
+<div display: flex>
+ <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">  
+ <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
+ <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">  
+ <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg">
+</div>
 </p>
  <h3>Otros</h3>
-<img  src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg">
  <br>
 <h1>Contacto</h1>
-<a href="www.linkedin.com/in/katherine-cristina-alzamora-zavala-426547254" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-<br>
-![GitHub Followers](https://img.shields.io/github/followers/katherineal?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/katherineal?style=social)
+<a href="www.linkedin.com/in/katherine-cristina-alzamora-zavala-426547254" target="_blank">
+ <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>

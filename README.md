@@ -27,5 +27,5 @@
 <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg">
  <br>
 <h1>Contacto</h1>
-<a href="www.linkedin.com/in/katherine-cristina-alzamora-zavala-426547254" target="_blank">
+<a href="https://www.linkedin.com/in/katherine-cristina-alzamora-zavala-426547254/">
  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>

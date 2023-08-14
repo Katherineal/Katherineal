@@ -1,4 +1,4 @@
-# Hola, soy Katherine Alzamora 👋
+# Sobre mí 👋
 ### Estudiante de Ingeniería de sistemas de información
 
 ¡Hola! Soy Katherine Alzamora y en este momento me encuentro en pleno proceso de capacitación para convertirme en una desarrolladora Full Stack. Actualmente, estoy estudiando ingeniería de sistemas de información en Argentina y tengo 19 años. Mi pasión por la tecnología se entrelaza con un profundo interés en el mundo empresarial. Estoy emocionada por aprender, crecer y contribuir en ambos campos. ¡Gracias por ser parte de esta emocionante travesía junto a mí! 🌟👩‍💼👩‍💻
